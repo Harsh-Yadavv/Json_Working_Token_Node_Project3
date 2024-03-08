@@ -10,7 +10,7 @@
     "JWT",
     "JSONWorkToken"
   ],
-  "author": "Janardan Thapaliya",
+  "author": "Harsh Yadav",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.1",
